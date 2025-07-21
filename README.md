@@ -1,4 +1,4 @@
-# Task Tracker 1.0 📝
+# Task Tracker 1.0 
 
 A beginner-friendly Python project that helps you manage your daily checklist by sorting tasks into **completed** and **incomplete** categories. Simple, interactive, and perfect for building your programming fundamentals!
 
